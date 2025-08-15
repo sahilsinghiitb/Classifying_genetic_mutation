@@ -1,4 +1,4 @@
-## 🧬 Personalized Cancer Diagnosis using Machine Learning  
+## 🧬 Cancer genome classification using Machine Learning  
 
 This project focuses on automating the classification of genetic mutations into cancer-related classes using machine learning techniques, thereby reducing manual diagnostic workload for pathologists.
 
